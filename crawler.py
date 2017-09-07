@@ -1,7 +1,5 @@
 import re
-import httplib
 import urllib2
-from urlparse import urlparse
 import BeautifulSoup
 import requests
 
